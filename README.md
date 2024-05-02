@@ -11,6 +11,8 @@ Living with a health condition can often make it seem like finding others facing
 - User Authentication
 - Terms and Conditions
 - Email Sending for Account Verification for Healtcare Professionals
+- For secuity .env, hashing,mongosanitize, authentication is implemented.
+- For availibility, when possible errors occure the ystem usually redirects to an appropriate page instrad of crushing or just let the user know about the error but it does not crash.
 - Different Registration for Healthcare Professionals in Order To Comply With the UAE Laws; they should be verified by content moderators first
 - Posting
 - Commenting
