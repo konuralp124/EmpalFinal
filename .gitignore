@@ -1,7 +1,7 @@
 node_modules
 *.swo
 *.swp
-.env
+
 
 .env*
 .flaskenv*
