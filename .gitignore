@@ -3,7 +3,7 @@ node_modules
 *.swp
 
 
-.env*
+
 .flaskenv*
 !.env.project
 !.env.vault
