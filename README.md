@@ -1,10 +1,10 @@
 Konuralp Sarisozen, Aadil Zakarya, Ali Kashwani, Janindu Nanayakkara
 
 ## Instructions for Running
-1. $ npm init
-2. run an %npm install express on terminal 
-3. then npm install mongodb
-4. then node app.mjs to get the project running on http://localhost:3000
+1. ```$ npm init```
+2. run an ```npm install``` express on terminal 
+3. then ```npm install mongodb```
+4. then ```node app.mjs``` to get the project running on http://localhost:3000
 
 ## Overview
 
