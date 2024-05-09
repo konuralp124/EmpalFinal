@@ -1,4 +1,4 @@
-Konuralp Sarisozen
+Konuralp Sarisozen, Aadil Zakarya, Ali Kashwani, Janindu Nanayakkara
 
 ## Instructions for Running
 1. $ npm init
@@ -14,7 +14,7 @@ Empal: a communication platform for patients with chronical diseases
 node.js, express.js, mongoose, hbs handlebars are used.
 
 ## Proposed ML model
-Can be accessed here with: https://colab.research.google.com/drive/1foASHE5BphlKTV_Bg3cRVQ_z8zEJgDrI?usp=drive_link 
+Can be accessed here with: https://colab.research.google.com/drive/1foASHE5BphlKTV_Bg3cRVQ_z8zEJgDrI?usp=drive_link, on COLAB with no dependencies required.
  
 # Description
 Living with a health condition can often make it seem like finding others facing similar challenges is a rare occurrence. If the isolation of dealing with your health struggles has left you feeling alone, you might be inclined to seek avenues to connect with individuals who share your specific health condition - which is exactly where Empal comes into play. Empal is not just a web based platform; it is a lifeline for those navigating the complexities of chronic health conditions. By fostering connections, a sense of community, sharing experiences, providing valuable resources, and enhancing accessibility to healthcare professionals, Empal strives to make a meaningful impact on the well-being of its usersbase.
